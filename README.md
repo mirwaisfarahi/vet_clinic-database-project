@@ -1,6 +1,6 @@
 # The Vet Clinic Database
 
-> This project is about a vet clinic relational database built using PostgreSQL. It is made up of a series of tables which include
+> This project is about a Vet Clinic Relational Database built using PostgreSQL. It is made up of a series of tables which include
 
 - Animals table
 - Animal's owners
