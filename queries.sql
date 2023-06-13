@@ -1,4 +1,5 @@
 -- Queries implemented on animals table
+
 SELECT * FROM animals WHERE name like '%mon';
 SELECT name FROM animals WHERE date_of_birth >= '2016-01-01' AND date_of_birth < '2019-12-31';
 SELECT name FROM animals WHERE neutered = 't' AND escape_attempts < 3;
