@@ -43,6 +43,10 @@
 - **[Create query for animal table]**
 - **[Query for update animals table]**
 - **[Queries for reporting from animal table]**
+- **[Create query for owners and species tables]**
+- **[Alter query for animal table]**
+- **[Foreign Key references for tables]**
+- **[Join queries for reporting from all animals, owners and species tables]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
