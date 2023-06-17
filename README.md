@@ -8,7 +8,6 @@
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -17,7 +16,7 @@
 
 # 📖 [The Vet Clinic Database] <a name="about-project"></a>
 
-> **[your_project__name]** is a relational database built using PostgreSQL. It is a project that store details of animals in a farm and also generates specific reports using SQL queries.
+> **[The Vet Clinic Database]** is a relational database built using PostgreSQL. It is a project that store details of animals in a farm and also generates specific reports using SQL queries.
 > It is made up of a series of tables which include
 
 - Animals table
@@ -40,8 +39,6 @@
 </details>
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[Create query for animal table]**
 - **[Query for update animals table]**
@@ -67,7 +64,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ```
 git clone https://github.com/Mikey1-nuel/vet_clinic_database.git
- cd vet_clinic_database
+cd vet_clinic_database
 ```
 
 ### Install
@@ -91,9 +88,8 @@ psql -u postgres
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Database performance audit]**
+- [ ] **[Add database schema diagram]**
 
 ## 🤝 Contributing <a name="contributing"></a>
 
