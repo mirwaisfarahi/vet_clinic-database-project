@@ -14,9 +14,9 @@
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
 
-# 📖 [The Vet Clinic Database] <a name="about-project"></a>
+# 📖 [Vet Clinic Database] <a name="about-project"></a>
 
-> **[The Vet Clinic Database]** is a relational database built using PostgreSQL. It is a project that store details of animals in a farm and also generates specific reports using SQL queries.
+> **The Vet Clinic Database** is a relational database built using PostgreSQL. It is a project that store details of animals in a farm and also generates specific reports using SQL queries.
 > It is made up of a series of tables which include
 
 - Animals table
