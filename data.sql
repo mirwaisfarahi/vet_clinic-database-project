@@ -25,3 +25,13 @@ UPDATE animals SET owners_id = (SELECT id FROM owners WHERE full_name = 'Jennife
 UPDATE animals SET owners_id = (SELECT id FROM owners WHERE full_name = 'Bob') WHERE name IN ('Devimon', 'Plantmon');
 UPDATE animals SET owners_id = (SELECT id FROM owners WHERE full_name = 'Melody Pond') WHERE name IN ('Charmander', 'Squirtle',  'Blossom');
 UPDATE animals SET owners_id = (SELECT id FROM owners WHERE full_name = 'Dean Winchester') WHERE name IN ('Angemon',  'Boarmon');
+
+-- Insert into vets, specialization and visits tables
+INSERT INTO vets(name, age, date_of_graduation) VALUES ('Vet William Tatcher', 45, ' 23/04/2000'),('Vet Maisy Smith', 26, '17/01/2019'),('Stephanie Mendez', 64, '14/05/1981'),('Vet Jack Harkness', 38, '08/06/2008');
+INSERT INTO specializations (vet_id, species_id) VALUES (1, 1) , (3, 2), (3, 1), (4,2);
+INSERT INTO visits (animal_id, vetS_id, date_of_visit) VALUES (1, 1, '24/05/2020'), (1, 3, '22/07/2020'),
+(2, 4, '02/02/2021'), (3, 2, '05/01/2020'), (3, 2,'08/03/2020'), (3, 2, '14/05/2020'),
+(4, 3, '04/05/2021'), (5, 4, '24/02/2021'), (6, 2, '21/12/2019'), (6, 1, '10/08/2020'),
+(6, 2, '07/04/2021'), (7, 3, '29/09/2019'), (8, 4, '03/10/2020'), (8, 4, '04/11/2020'),
+(9, 2, '24/01/2019'), (9, 2, '15/05/2019'), (9, 2, '27/02/2020'), (9, 2, '03/08/2020'),
+(10, 3, '24/05/2020'), (10, 1, '11/01/2021');
