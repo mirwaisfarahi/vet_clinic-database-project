@@ -7,7 +7,7 @@ INSERT INTO animals(date_of_birth, escape_attempts, neutered, weight_kg, name) V
 
 -- Add more data to animals table
 INSERT INTO animals(date_of_birth, escape_attempts, neutered, weight_kg, name) VALUES ('2020-02-08', 0, false,-11, 'Charmander');
-INSERT INTO animals(date_of_birth, escape_attempts, neutered, weight_kg, name) VALUES ('2020-11-15', 2, true,-5.7, 'Plantmon');
+INSERT INTO animals(date_of_birth, escape_attempts, neutered, weight_kg, name) VALUES ('2021-11-15', 2, true,-5.7, 'Plantmon');
 INSERT INTO animals(date_of_birth, escape_attempts, neutered, weight_kg, name) VALUES ('1993-04-02', 3, false,-12.13, 'Squirtle');
 INSERT INTO animals(date_of_birth, escape_attempts, neutered, weight_kg, name) VALUES ('2005-06-12', 1, true,-45, 'Angemon');
 INSERT INTO animals(date_of_birth, escape_attempts, neutered, weight_kg, name) VALUES ('2005-06-07', 7, true,20.4, 'Boarmon');
