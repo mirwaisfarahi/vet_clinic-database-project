@@ -47,7 +47,7 @@
 - **[Alter query for animal table]**
 - **[Foreign Key references for tables]**
 - **[Join queries for reporting from all animals, owners and species tables]**
-- **[create queries for visits, specializations tables]**
+- **[create queries for visits, specializations]**
 - **[Join queries for for visits and specialization tables]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
