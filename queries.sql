@@ -20,12 +20,13 @@ UPDATE animal SET species = 'digimon' WHERE name LIKE '@mon';
 UPDATE animal SET species = 'pokemon' WHERE name NOT LIKE '@mon';
 SELECT * FROM animals;
 COMMIT;
+SELECT * FROM animals;
 
 BEGIN;
-SELECT FROM animals;
-SELECT FROM animals;
+DELETE FROM animals;
+SELECT COUNT(*) FROM ANIMALS;
 ROLLBACK;
-SELECT * FROM animals;
+SELECT COUNT(*) FROM ANIMALS;
 
 BEGIN;
 DELETE FROM animals WHERE date_of_birth > '2022-01-01';
@@ -40,9 +41,10 @@ COMMIT;
 
 -- Write queries to answer the following questions
 SELECT COUNT(*) FROM animals;
+SELECT COUNT(*) FROM animals WHERE escape_attempts > 0;
 SELECT AVG(weight_kg) FROM animals;
 SELECT neutered, MAX(escape_attempts) FROM animals GROUP BY neutered;
 SELECT neutered, MAX(escape_attempts) FROM animals GROUP BY neutered;
 SELECT species, MIN(weight_kg), MAX(weight_kg) FROM animals GROUP BY species;
-SELECT species, AVG(escape_attempts) FROM animals WHERE date_of_birth >= '1990-01-01' AND date_of_birth <= '2000-01-01'
+SELECT species, AVG(escape_attempts) FROM animals WHERE date_of_birth >= '1990-01-01' AND date_of_birth <= '2000-12-31'
 GROUP BY species;
