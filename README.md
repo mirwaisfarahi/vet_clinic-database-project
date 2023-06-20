@@ -89,9 +89,11 @@ psql -u postgres
 - GitHub: [@githubhandle](https://github.com/mirwaisfarahi)
 - Twitter: [@twitterhandle](https://twitter.com/farahi92)
 
-👤 **Alfie Yang**
+👤 **Yan Min Thwin**
 
-- GitHub: [@githubhandle](https://github.com/anbehindY)
+- GitHub: [@anbehindY](https://github.com/anbehindY)
+- Twitter: [@yanminthwin](https://twitter.com/yanminthwin)
+- LinkedIn: [Yan Min Thwin](https://www.linkedin.com/in/yan-min-thwin/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
