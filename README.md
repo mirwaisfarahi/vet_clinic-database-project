@@ -49,6 +49,7 @@
 - **[Join queries for reporting from all animals, owners and species tables]**
 - **[create queries for visits, specializations]**
 - **[Join queries for for visits and specialization tables]**
+- **[Index for some columns to optimize query performance]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
