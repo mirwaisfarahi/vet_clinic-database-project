@@ -49,6 +49,7 @@
 - **[Join queries for reporting from all animals, owners and species tables]**
 - **[create queries for visits, specializations]**
 - **[Join queries for for visits and specialization tables]**
+- **[Index for some columns to optimize query performance]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,13 +89,18 @@ psql -u postgres
 - GitHub: [@githubhandle](https://github.com/mirwaisfarahi)
 - Twitter: [@twitterhandle](https://twitter.com/farahi92)
 
+👤 **Yan Min Thwin**
+
+- GitHub: [@anbehindY](https://github.com/anbehindY)
+- Twitter: [@yanminthwin](https://twitter.com/yanminthwin)
+- LinkedIn: [Yan Min Thwin](https://www.linkedin.com/in/yan-min-thwin/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Database performance audit]**
 - [ ] **[Add database schema diagram]**
 
 ## 🤝 Contributing <a name="contributing"></a>
