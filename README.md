@@ -99,7 +99,6 @@ psql -u postgres
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Database performance audit]**
 - [ ] **[Add database schema diagram]**
 
 ## 🤝 Contributing <a name="contributing"></a>
