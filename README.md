@@ -88,6 +88,10 @@ psql -u postgres
 - GitHub: [@githubhandle](https://github.com/mirwaisfarahi)
 - Twitter: [@twitterhandle](https://twitter.com/farahi92)
 
+👤 **Alfie Yang**
+
+- GitHub: [@githubhandle](https://github.com/anbehindY)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
