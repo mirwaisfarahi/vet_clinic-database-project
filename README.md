@@ -24,6 +24,9 @@
 - Clinic employees
 - Visits
 
+![diagram](https://github.com/mirwaisfarahi/vet_clinic-database-project/assets/104019280/0b6c024d-53f7-4af1-b065-0ccb91189d5c)
+
+
 ## 🛠 Built With <a name="built-with"></a>
 
 - Database language: SQL
